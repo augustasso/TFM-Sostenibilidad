@@ -1,0 +1,151 @@
+﻿Banco;Riesgo;Tipo de riesgo;Horizonte;Valor
+Santander;Riesgos de transición;Riesgo de crédito;CP;2,25
+Santander;Riesgos de transición;Riesgo de crédito;MP;2,5
+Santander;Riesgos de transición;Riesgo de crédito;LP;2,5
+Santander;Riesgos de transición;Riesgo reputacional;CP;3
+Santander;Riesgos de transición;Riesgo reputacional;MP;4
+Santander;Riesgos de transición;Riesgo reputacional;LP;3
+Santander;Riesgos de transición;Riesgo operacional;CP;1
+Santander;Riesgos de transición;Riesgo operacional;MP;2
+Santander;Riesgos de transición;Riesgo operacional;LP;1
+Santander;Riesgos de transición;Riesgo de liquidez;CP;2
+Santander;Riesgos de transición;Riesgo de liquidez;MP;1
+Santander;Riesgos de transición;Riesgo de liquidez;LP;1
+Santander;Riesgos de transición;Riesgo de mercado;CP;1
+Santander;Riesgos de transición;Riesgo de mercado;MP;2
+Santander;Riesgos de transición;Riesgo de mercado;LP;2
+BBVA;Riesgos de transición;Riesgo de crédito;CP;1
+BBVA;Riesgos de transición;Riesgo de crédito;MP;3
+BBVA;Riesgos de transición;Riesgo de crédito;LP;4
+BBVA;Riesgos de transición;Riesgo reputacional;CP;3
+BBVA;Riesgos de transición;Riesgo reputacional;MP;3
+BBVA;Riesgos de transición;Riesgo reputacional;LP;3
+BBVA;Riesgos de transición;Riesgo operacional;CP;2
+BBVA;Riesgos de transición;Riesgo operacional;MP;3
+BBVA;Riesgos de transición;Riesgo operacional;LP;3
+BBVA;Riesgos de transición;Riesgo de liquidez;CP;1
+BBVA;Riesgos de transición;Riesgo de liquidez;MP;2
+BBVA;Riesgos de transición;Riesgo de liquidez;LP;2
+BBVA;Riesgos de transición;Riesgo de mercado;CP;1
+BBVA;Riesgos de transición;Riesgo de mercado;MP;1
+BBVA;Riesgos de transición;Riesgo de mercado;LP;1
+CaixaBank;Riesgos de transición;Riesgo de crédito;CP;1,25
+CaixaBank;Riesgos de transición;Riesgo de crédito;MP;1,5
+CaixaBank;Riesgos de transición;Riesgo de crédito;LP;2,5
+CaixaBank;Riesgos de transición;Riesgo reputacional;CP;1
+CaixaBank;Riesgos de transición;Riesgo reputacional;MP;2
+CaixaBank;Riesgos de transición;Riesgo reputacional;LP;2
+CaixaBank;Riesgos de transición;Riesgo operacional;CP;1
+CaixaBank;Riesgos de transición;Riesgo operacional;MP;2
+CaixaBank;Riesgos de transición;Riesgo operacional;LP;2
+CaixaBank;Riesgos de transición;Riesgo de liquidez;CP;1
+CaixaBank;Riesgos de transición;Riesgo de liquidez;MP;1
+CaixaBank;Riesgos de transición;Riesgo de liquidez;LP;1
+CaixaBank;Riesgos de transición;Riesgo de mercado;CP;1
+CaixaBank;Riesgos de transición;Riesgo de mercado;MP;1
+CaixaBank;Riesgos de transición;Riesgo de mercado;LP;1
+Sabadell;Riesgos de transición;Riesgo de crédito;CP;2
+Sabadell;Riesgos de transición;Riesgo de crédito;MP;2
+Sabadell;Riesgos de transición;Riesgo de crédito;LP;3
+Sabadell;Riesgos de transición;Riesgo reputacional;CP;1
+Sabadell;Riesgos de transición;Riesgo reputacional;MP;1
+Sabadell;Riesgos de transición;Riesgo reputacional;LP;2
+Sabadell;Riesgos de transición;Riesgo operacional;CP;1
+Sabadell;Riesgos de transición;Riesgo operacional;MP;1
+Sabadell;Riesgos de transición;Riesgo operacional;LP;1
+Sabadell;Riesgos de transición;Riesgo de liquidez;CP;1
+Sabadell;Riesgos de transición;Riesgo de liquidez;MP;1
+Sabadell;Riesgos de transición;Riesgo de liquidez;LP;1
+Sabadell;Riesgos de transición;Riesgo de mercado;CP;1
+Sabadell;Riesgos de transición;Riesgo de mercado;MP;1
+Sabadell;Riesgos de transición;Riesgo de mercado;LP;2
+Bankinter;Riesgos de transición;Riesgo de crédito;CP;3,4
+Bankinter;Riesgos de transición;Riesgo de crédito;MP;3,3
+Bankinter;Riesgos de transición;Riesgo de crédito;LP;2,7
+Bankinter;Riesgos de transición;Riesgo reputacional;CP;3,2
+Bankinter;Riesgos de transición;Riesgo reputacional;MP;3,2
+Bankinter;Riesgos de transición;Riesgo reputacional;LP;2,9
+Bankinter;Riesgos de transición;Riesgo operacional;CP;2,7
+Bankinter;Riesgos de transición;Riesgo operacional;MP;2,8
+Bankinter;Riesgos de transición;Riesgo operacional;LP;2,9
+Bankinter;Riesgos de transición;Riesgo de liquidez;CP;2,2
+Bankinter;Riesgos de transición;Riesgo de liquidez;MP;1,9
+Bankinter;Riesgos de transición;Riesgo de liquidez;LP;1,7
+Bankinter;Riesgos de transición;Riesgo de mercado;CP;1,8
+Bankinter;Riesgos de transición;Riesgo de mercado;MP;1,8
+Bankinter;Riesgos de transición;Riesgo de mercado;LP;1,7
+Santander;Riesgos fisicos;Riesgo de crédito;CP;1,75
+Santander;Riesgos fisicos;Riesgo de crédito;MP;2
+Santander;Riesgos fisicos;Riesgo de crédito;LP;2
+Santander;Riesgos fisicos;Riesgo reputacional;CP;3
+Santander;Riesgos fisicos;Riesgo reputacional;MP;3
+Santander;Riesgos fisicos;Riesgo reputacional;LP;2
+Santander;Riesgos fisicos;Riesgo operacional;CP;1
+Santander;Riesgos fisicos;Riesgo operacional;MP;2
+Santander;Riesgos fisicos;Riesgo operacional;LP;2
+Santander;Riesgos fisicos;Riesgo de liquidez;CP;2
+Santander;Riesgos fisicos;Riesgo de liquidez;MP;1
+Santander;Riesgos fisicos;Riesgo de liquidez;LP;1
+Santander;Riesgos fisicos;Riesgo de mercado;CP;2
+Santander;Riesgos fisicos;Riesgo de mercado;MP;1
+Santander;Riesgos fisicos;Riesgo de mercado;LP;1
+BBVA;Riesgos fisicos;Riesgo de crédito;CP;1
+BBVA;Riesgos fisicos;Riesgo de crédito;MP;2
+BBVA;Riesgos fisicos;Riesgo de crédito;LP;2
+BBVA;Riesgos fisicos;Riesgo reputacional;CP;3
+BBVA;Riesgos fisicos;Riesgo reputacional;MP;3
+BBVA;Riesgos fisicos;Riesgo reputacional;LP;3
+BBVA;Riesgos fisicos;Riesgo operacional;CP;1
+BBVA;Riesgos fisicos;Riesgo operacional;MP;1
+BBVA;Riesgos fisicos;Riesgo operacional;LP;1
+BBVA;Riesgos fisicos;Riesgo de liquidez;CP;1
+BBVA;Riesgos fisicos;Riesgo de liquidez;MP;2
+BBVA;Riesgos fisicos;Riesgo de liquidez;LP;2
+BBVA;Riesgos fisicos;Riesgo de mercado;CP;1
+BBVA;Riesgos fisicos;Riesgo de mercado;MP;1
+BBVA;Riesgos fisicos;Riesgo de mercado;LP;1
+Caixabank;Riesgos fisicos;Riesgo de crédito;CP;1,25
+Caixabank;Riesgos fisicos;Riesgo de crédito;MP;1,5
+Caixabank;Riesgos fisicos;Riesgo de crédito;LP;2,5
+Caixabank;Riesgos fisicos;Riesgo reputacional;CP;1
+Caixabank;Riesgos fisicos;Riesgo reputacional;MP;1
+Caixabank;Riesgos fisicos;Riesgo reputacional;LP;2
+Caixabank;Riesgos fisicos;Riesgo operacional;CP;1
+Caixabank;Riesgos fisicos;Riesgo operacional;MP;1
+Caixabank;Riesgos fisicos;Riesgo operacional;LP;1
+Caixabank;Riesgos fisicos;Riesgo de liquidez;CP;1
+Caixabank;Riesgos fisicos;Riesgo de liquidez;MP;1
+Caixabank;Riesgos fisicos;Riesgo de liquidez;LP;1
+Caixabank;Riesgos fisicos;Riesgo de mercado;CP;1
+Caixabank;Riesgos fisicos;Riesgo de mercado;MP;1
+Caixabank;Riesgos fisicos;Riesgo de mercado;LP;1
+Sabadell;Riesgos fisicos;Riesgo de crédito;CP;2
+Sabadell;Riesgos fisicos;Riesgo de crédito;MP;2
+Sabadell;Riesgos fisicos;Riesgo de crédito;LP;3
+Sabadell;Riesgos fisicos;Riesgo reputacional;CP;ND
+Sabadell;Riesgos fisicos;Riesgo reputacional;MP;ND
+Sabadell;Riesgos fisicos;Riesgo reputacional;LP;ND
+Sabadell;Riesgos fisicos;Riesgo operacional;CP;1
+Sabadell;Riesgos fisicos;Riesgo operacional;MP;1
+Sabadell;Riesgos fisicos;Riesgo operacional;LP;1
+Sabadell;Riesgos fisicos;Riesgo de liquidez;CP;1
+Sabadell;Riesgos fisicos;Riesgo de liquidez;MP;1
+Sabadell;Riesgos fisicos;Riesgo de liquidez;LP;1
+Sabadell;Riesgos fisicos;Riesgo de mercado;CP;1
+Sabadell;Riesgos fisicos;Riesgo de mercado;MP;1
+Sabadell;Riesgos fisicos;Riesgo de mercado;LP;2
+Bankinter;Riesgos fisicos;Riesgo de crédito;CP;2,4
+Bankinter;Riesgos fisicos;Riesgo de crédito;MP;2,6
+Bankinter;Riesgos fisicos;Riesgo de crédito;LP;3
+Bankinter;Riesgos fisicos;Riesgo reputacional;CP;1,8
+Bankinter;Riesgos fisicos;Riesgo reputacional;MP;1,8
+Bankinter;Riesgos fisicos;Riesgo reputacional;LP;1,8
+Bankinter;Riesgos fisicos;Riesgo operacional;CP;1,9
+Bankinter;Riesgos fisicos;Riesgo operacional;MP;2,4
+Bankinter;Riesgos fisicos;Riesgo operacional;LP;2,9
+Bankinter;Riesgos fisicos;Riesgo de liquidez;CP;1,4
+Bankinter;Riesgos fisicos;Riesgo de liquidez;MP;1,9
+Bankinter;Riesgos fisicos;Riesgo de liquidez;LP;1,4
+Bankinter;Riesgos fisicos;Riesgo de mercado;CP;1,6
+Bankinter;Riesgos fisicos;Riesgo de mercado;MP;1,6
+Bankinter;Riesgos fisicos;Riesgo de mercado;LP;1,7

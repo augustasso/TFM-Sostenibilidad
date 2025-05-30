@@ -1,0 +1,25 @@
+﻿Banco;Año;Tipo de GAR;GAR;Cobertura
+Santander;2023;GAR Ingresos;2,42%;70,30%
+Santander;2024;GAR Ingresos;3,04%;69,80%
+Santander;2023;GAR Capex;2,60%;70,30%
+Santander;2024;GAR Capex;3,28%;69,80%
+BBVA;2023;GAR Ingresos;0,52%;59,04%
+BBVA;2024;GAR Ingresos;0,57%;65,36%
+BBVA;2023;GAR Capex;0,80%;59,04%
+BBVA;2024;GAR Capex;0,84%;65,36%
+CaixaBank;2023;GAR Ingresos;1,10%;75,00%
+CaixaBank;2024;GAR Ingresos;3,05%;73,85%
+CaixaBank;2023;GAR Capex;2,30%;75,00%
+CaixaBank;2024;GAR Capex;3,93%;73,85%
+Sabadell;2023;GAR Ingresos;1,10%;72,99%
+Sabadell;2024;GAR Ingresos;3,05%;77,19%
+Sabadell;2023;GAR Capex;2,30%;72,99%
+Sabadell;2024;GAR Capex;3,93%;77,19%
+Unicaja;2023;GAR Ingresos;2,02%;62,26%
+Unicaja;2024;GAR Ingresos;3,00%;68,16%
+Unicaja;2023;GAR Capex;2,79%;62,26%
+Unicaja;2024;GAR Capex;3,59%;68,16%
+Bankinter;2023;GAR Ingresos;1,54%;87,15%
+Bankinter;2024;GAR Ingresos;1,55%;86,96%
+Bankinter;2023;GAR Capex;1,71%;87,15%
+Bankinter;2024;GAR Capex;1,92%;86,96%

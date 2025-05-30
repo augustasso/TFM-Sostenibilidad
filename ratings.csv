@@ -1,0 +1,31 @@
+﻿Banco;Rating;Año;Nota
+Santander;MSCI;2022;AA
+Santander;MSCI;2023;AA
+Santander;MSCI;2024;AA
+BBVA;MSCI;2022;AA
+BBVA;MSCI;2023;AA
+BBVA;MSCI;2024;AA
+CaixaBank;MSCI;2022;A
+CaixaBank;MSCI;2023;A
+CaixaBank;MSCI;2024;AA
+Sabadell;MSCI;2022;AA
+Sabadell;MSCI;2023;AA
+Sabadell;MSCI;2024;AA
+Santander;S&P;2024;64
+BBVA;S&P;2024;89
+CaixaBank;S&P;2024;86
+Sabadell;S&P;2024;84
+Unicaja ;S&P;2024;52
+Bankinter;S&P;2024;78
+Santander;Ethos;2024;53
+BBVA;Ethos;2024;72
+CaixaBank;Ethos;2024;90
+Sabadell;Ethos;2024;66
+Unicaja ;Ethos;2024;NA
+Bankinter;Ethos;2024;86
+Santander;LSEG;2023;87
+BBVA;LSEG;2023;92
+CaixaBank;LSEG;2023;89
+Sabadell;LSEG;2023;90
+Unicaja ;LSEG;2023;55
+Bankinter;LSEG;2023;79
